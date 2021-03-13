@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/frontend%3F-Sim-FFD666?style=for-the-badge" alt="Frontend" />
-  <img src="https://img.shields.io/badge/backend%3F-Não-FFD666?style=for-the-badge" alt="Backend" />
+  <img src="https://img.shields.io/badge/backend%3F-Sim-FFD666?style=for-the-badge" alt="Backend" />
   <img src="https://img.shields.io/badge/mobile%20%3F-Não-FFD666?style=for-the-badge" alt="Aplicativo mobile" />
 </div>
 
@@ -23,7 +23,7 @@ Aplicação criada o evento **Next Level Week** na sua 3° edição, oferecido p
 
 ## ⏳ Organização do projeto
 - [ ] [Frontend](https://github.com/LucianoWeslen11/happy/tree/master/frontend)
-- [ ] Backend
+- [ ] [Backend](https://github.com/LucianoWeslen11/happy/tree/master/backend)
 - [ ] Mobile
 
 ## 📜 License
